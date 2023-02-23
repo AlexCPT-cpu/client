@@ -34,7 +34,7 @@ const NftCard = ({ image, id, rank, rs, colName, index , rarity}: NftProps) => {
           <div className="p-2 text-white">{colName} NFT Ranking</div>
         </div>
         <div>
-          {nft?.Attributes.map((attribute, index) => {
+          {nft?.Attributes.map((attribute: any, index: any) => {
             return (
               <div key={index}>
                 <AttributesCard
