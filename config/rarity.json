@@ -1,0 +1,1078 @@
+[
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Peach Sunset",
+        "rarityScore": 55.5
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Zombified GreyBrown",
+        "rarityScore": 111
+      },
+      {
+        "trait_type": "Expression",
+        "value": "Zombified Calm Brown",
+        "rarityScore": 37
+      },
+      {
+        "trait_type": "Special trait",
+        "value": "Wise",
+        "rarityScore": 12.333333333333332
+      },
+      {
+        "trait_type": "Head",
+        "value": "Bald",
+        "rarityScore": 2.1483870967741936
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "None",
+        "rarityScore": 6.403846153846153
+      },
+      {
+        "trait_type": "Classification",
+        "value": "Legendary Zombie Stage 2",
+        "rarityScore": 23.785714285714285
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Zombified Yellow Eyes",
+        "rarityScore": 83.25
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 339.42128086966795,
+    "token_id": "1",
+    "image": "https://gateway.ipfs.io/ipfs/QmTHLfR5YoDbjfmMoWBYFNEdZz8Ef57VWtJzvom43xVhYx",
+    "Rank": 1
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green Trippy",
+        "rarityScore": 23.785714285714285
+      },
+      { "trait_type": "Fur", "value": "Zombified Red", "rarityScore": 111 },
+      {
+        "trait_type": "Expression",
+        "value": "Zombified Calm Red",
+        "rarityScore": 111
+      },
+      {
+        "trait_type": "Special trait",
+        "value": "Wise",
+        "rarityScore": 12.333333333333332
+      },
+      {
+        "trait_type": "Head",
+        "value": "Bald",
+        "rarityScore": 2.1483870967741936
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "None",
+        "rarityScore": 6.403846153846153
+      },
+      {
+        "trait_type": "Classification",
+        "value": "Legendary Zombie Stage 2",
+        "rarityScore": 23.785714285714285
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Zombified Green Eyes",
+        "rarityScore": 166.5
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 464.9569951553822,
+    "token_id": "2",
+    "image": "https://gateway.ipfs.io/ipfs/bafybeidoezfl7c4ygp42bq5wsi6bsa7dbr562q3kescr4ajzukz77js4t4/2.jpg",
+    "Rank": 2
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green Trippy",
+        "rarityScore": 23.785714285714285
+      },
+      { "trait_type": "Fur", "value": "Hellspawn Brown", "rarityScore": 55.5 },
+      {
+        "trait_type": "Expression",
+        "value": "Calm Face Black",
+        "rarityScore": 23.785714285714285
+      },
+      {
+        "trait_type": "Special trait",
+        "value": "Special Hook Earring",
+        "rarityScore": 66.6
+      },
+      {
+        "trait_type": "Head",
+        "value": "Bald",
+        "rarityScore": 2.1483870967741936
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "ODgreen Tee",
+        "rarityScore": 11.892857142857142
+      },
+      {
+        "trait_type": "Classification",
+        "value": "Legendary",
+        "rarityScore": 6.9375
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Purple Eyes",
+        "rarityScore": 11.1
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 209.75017281105988,
+    "token_id": "3",
+    "image": "https://gateway.ipfs.io/ipfs/bafybeidoezfl7c4ygp42bq5wsi6bsa7dbr562q3kescr4ajzukz77js4t4/3.jpg",
+    "Rank": 3
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink Sunrise",
+        "rarityScore": 333
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Zombified PurpleGrey",
+        "rarityScore": 333
+      },
+      {
+        "trait_type": "Expression",
+        "value": "Zombified PurpleGrey",
+        "rarityScore": 333
+      },
+      {
+        "trait_type": "Special trait",
+        "value": "Wise",
+        "rarityScore": 12.333333333333332
+      },
+      {
+        "trait_type": "Head",
+        "value": "Bald",
+        "rarityScore": 2.1483870967741936
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "None",
+        "rarityScore": 6.403846153846153
+      },
+      {
+        "trait_type": "Classification",
+        "value": "Zombie Stage 2",
+        "rarityScore": 15.85714285714286
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Zombified Pink Eyes",
+        "rarityScore": 83.25
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 1126.9927094410966,
+    "token_id": "4",
+    "image": "https://gateway.ipfs.io/ipfs/QmYRYcE7MK6XioHbi1b17ehvLgbB9dsY5J2HpBhvjiMYwp",
+    "Rank": 4
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Lucky Green Spirals",
+        "rarityScore": 333
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Tortured White Ape",
+        "rarityScore": 333
+      },
+      {
+        "trait_type": "Expression",
+        "value": "Tortured Ape Smile",
+        "rarityScore": 333
+      },
+      {
+        "trait_type": "Special trait",
+        "value": "Crazy",
+        "rarityScore": 12.807692307692307
+      },
+      {
+        "trait_type": "Head",
+        "value": "Brain Dome Green",
+        "rarityScore": 166.5
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Torn Black Suit",
+        "rarityScore": 333
+      },
+      { "trait_type": "Classification", "value": "Tortured", "rarityScore": 9 },
+      {
+        "trait_type": "Eye color",
+        "value": "Bloodshot Green Eyes",
+        "rarityScore": 333
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 1861.3076923076924,
+    "token_id": "5",
+    "image": "https://gateway.ipfs.io/ipfs/bafybeidoezfl7c4ygp42bq5wsi6bsa7dbr562q3kescr4ajzukz77js4t4/5.jpg",
+    "Rank": 5
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue Stripe Special",
+        "rarityScore": 333
+      },
+      { "trait_type": "Fur", "value": "Zombified Purple", "rarityScore": 333 },
+      {
+        "trait_type": "Expression",
+        "value": "Zombified Calm Purple",
+        "rarityScore": 333
+      },
+      {
+        "trait_type": "Special trait",
+        "value": "None",
+        "rarityScore": 7.085106382978723
+      },
+      {
+        "trait_type": "Head",
+        "value": "Bald",
+        "rarityScore": 2.1483870967741936
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "None",
+        "rarityScore": 6.403846153846153
+      },
+      {
+        "trait_type": "Classification",
+        "value": "Legendary Zombie Stage 2",
+        "rarityScore": 23.785714285714285
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Zombified Purple Eyes",
+        "rarityScore": 111
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 1157.4230539193134,
+    "token_id": "6",
+    "image": "https://gateway.ipfs.io/ipfs/bafybeidoezfl7c4ygp42bq5wsi6bsa7dbr562q3kescr4ajzukz77js4t4/6.jpg",
+    "Rank": 6
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue Green Vortex",
+        "rarityScore": 333
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Hellspawn BlackBlue",
+        "rarityScore": 333
+      },
+      {
+        "trait_type": "Expression",
+        "value": "Calm Face Dark Brown",
+        "rarityScore": 333
+      },
+      {
+        "trait_type": "Special trait",
+        "value": "Respected",
+        "rarityScore": 333
+      },
+      {
+        "trait_type": "Head",
+        "value": "Special Black Hat",
+        "rarityScore": 333
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Black Suit Grey Tie",
+        "rarityScore": 30.272727272727273
+      },
+      {
+        "trait_type": "Classification",
+        "value": "Legendary",
+        "rarityScore": 6.9375
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Blue Eyes",
+        "rarityScore": 30.272727272727273
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 1740.4829545454545,
+    "token_id": "7",
+    "image": "https://gateway.ipfs.io/ipfs/QmZAd1dYoZre5Ls7TaNXsK8GoHbfzn2HZP9ynQoacZvL1T",
+    "Rank": 7
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Special Solid Purple",
+        "rarityScore": 333
+      },
+      { "trait_type": "Fur", "value": "Rare Golden Fur", "rarityScore": 66.6 },
+      {
+        "trait_type": "Expression",
+        "value": "Rare Gold Smile",
+        "rarityScore": 25.615384615384613
+      },
+      { "trait_type": "Special trait", "value": "Lucky", "rarityScore": 13.32 },
+      {
+        "trait_type": "Head",
+        "value": "Bald",
+        "rarityScore": 2.1483870967741936
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Yellow BNBchain Tee",
+        "rarityScore": 16.65
+      },
+      {
+        "trait_type": "Classification",
+        "value": "Legendary",
+        "rarityScore": 6.9375
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Orange Eyes",
+        "rarityScore": 12.807692307692307
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 485.0789640198511,
+    "token_id": "8",
+    "image": "https://gateway.ipfs.io/ipfs/bafybeidoezfl7c4ygp42bq5wsi6bsa7dbr562q3kescr4ajzukz77js4t4/8.jpg",
+    "Rank": 8
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Peach Sunset",
+        "rarityScore": 55.5
+      },
+      { "trait_type": "Fur", "value": "Black Devil", "rarityScore": 333 },
+      {
+        "trait_type": "Expression",
+        "value": "Black Calm Face",
+        "rarityScore": 333
+      },
+      {
+        "trait_type": "Special trait",
+        "value": "Famous",
+        "rarityScore": 20.8125
+      },
+      {
+        "trait_type": "Head",
+        "value": "Bald",
+        "rarityScore": 2.1483870967741936
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Black Suit Grey Tie",
+        "rarityScore": 30.272727272727273
+      },
+      {
+        "trait_type": "Classification",
+        "value": "Dead Inside",
+        "rarityScore": 10.40625
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "3rd Eye",
+        "rarityScore": 8.763157894736842
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 801.9030222642383,
+    "token_id": "9",
+    "image": "https://gateway.ipfs.io/ipfs/QmdJmjR4BnmvMe6GogFpkJU1qTNPHchAbPXyAUneRQCzmY",
+    "Rank": 9
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Special Blue Sky",
+        "rarityScore": 333
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Hellspawn Special Violet",
+        "rarityScore": 333
+      },
+      {
+        "trait_type": "Expression",
+        "value": "Happy Smile 3",
+        "rarityScore": 166.5
+      },
+      {
+        "trait_type": "Special trait",
+        "value": "Special Blue Hat",
+        "rarityScore": 66.6
+      },
+      {
+        "trait_type": "Head",
+        "value": "Bald",
+        "rarityScore": 2.1483870967741936
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Purple Suit Purple Tie",
+        "rarityScore": 166.5
+      },
+      {
+        "trait_type": "Classification",
+        "value": "Legendary",
+        "rarityScore": 6.9375
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "3rd Eye Pink",
+        "rarityScore": 333
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 1415.6858870967742,
+    "token_id": "10",
+    "image": "https://gateway.ipfs.io/ipfs/QmWXKsZja3PtQCDP7HRok9JbhKA5H4bBwBY7UPhYkHBPsh",
+    "Rank": 10
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Special Blue Clouds",
+        "rarityScore": 333
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Black Devil Fur",
+        "rarityScore": 30.272727272727273
+      },
+      {
+        "trait_type": "Expression",
+        "value": "Calm Face Dark Black",
+        "rarityScore": 333
+      },
+      { "trait_type": "Special trait", "value": "Lucky", "rarityScore": 13.32 },
+      {
+        "trait_type": "Head",
+        "value": "Black Joker Hair",
+        "rarityScore": 66.6
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Dark Black BNBchain Tee",
+        "rarityScore": 333
+      },
+      {
+        "trait_type": "Classification",
+        "value": "Legendary",
+        "rarityScore": 6.9375
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Blue Eyes",
+        "rarityScore": 30.272727272727273
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 1154.4029545454546,
+    "token_id": "11",
+    "image": "https://gateway.ipfs.io/ipfs/bafybeidoezfl7c4ygp42bq5wsi6bsa7dbr562q3kescr4ajzukz77js4t4/11.jpg",
+    "Rank": 11
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "BlueGreen",
+        "rarityScore": 30.272727272727273
+      },
+      { "trait_type": "Fur", "value": "Lime Green", "rarityScore": 333 },
+      {
+        "trait_type": "Expression",
+        "value": "Lucky Smile Face Normal",
+        "rarityScore": 83.25
+      },
+      {
+        "trait_type": "Special trait",
+        "value": "Special Purple Earring ",
+        "rarityScore": 333
+      },
+      {
+        "trait_type": "Head",
+        "value": "Bald",
+        "rarityScore": 2.1483870967741936
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Black BNBchain Tee",
+        "rarityScore": 22.2
+      },
+      {
+        "trait_type": "Classification",
+        "value": "Dead Inside",
+        "rarityScore": 10.40625
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Chucky Eyes",
+        "rarityScore": 12.807692307692307
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 835.0850566771937,
+    "token_id": "12",
+    "image": "https://gateway.ipfs.io/ipfs/QmRgs8eykSaFRKqQBY9pBpbpsrh2aqMnhjiCAsbXWdK4Tj",
+    "Rank": 12
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Platinum",
+        "rarityScore": 23.785714285714285
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Beastmode DarkPink",
+        "rarityScore": 333
+      },
+      {
+        "trait_type": "Expression",
+        "value": "Beastmode DarkPink Happy",
+        "rarityScore": 333
+      },
+      {
+        "trait_type": "Special trait",
+        "value": "Degen",
+        "rarityScore": 7.568181818181818
+      },
+      {
+        "trait_type": "Head",
+        "value": "Beastmode DarkPink",
+        "rarityScore": 333
+      },
+      { "trait_type": "Clothing", "value": "ODGreen Tee", "rarityScore": 333 },
+      {
+        "trait_type": "Classification",
+        "value": "Dead Inside",
+        "rarityScore": 10.40625
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Strained Eyes",
+        "rarityScore": 41.625
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 1423.3851461038962,
+    "token_id": "13",
+    "image": "https://gateway.ipfs.io/ipfs/bafybeidoezfl7c4ygp42bq5wsi6bsa7dbr562q3kescr4ajzukz77js4t4/13.jpg",
+    "Rank": 13
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "BlueGreenYellow",
+        "rarityScore": 83.25
+      },
+      { "trait_type": "Fur", "value": "RarePurpleLavaFur", "rarityScore": 37 },
+      { "trait_type": "Expression", "value": "Red Mouth", "rarityScore": 33.3 },
+      {
+        "trait_type": "Special trait",
+        "value": "Special Green Hat",
+        "rarityScore": 33.3
+      },
+      {
+        "trait_type": "Head",
+        "value": "Bald",
+        "rarityScore": 2.1483870967741936
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Green Tee",
+        "rarityScore": 14.478260869565219
+      },
+      { "trait_type": "Classification", "value": "Tortured", "rarityScore": 9 },
+      {
+        "trait_type": "Eye color",
+        "value": "Blue Eyes",
+        "rarityScore": 30.272727272727273
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 250.74937523906672,
+    "token_id": "14",
+    "image": "https://gateway.ipfs.io/ipfs/QmRD3akRyVbUq1uaMBetS4DWLVTuWtRJ2Ww8GUDpodvNu9",
+    "Rank": 14
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Gold and Green",
+        "rarityScore": 66.6
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Beastmode Black",
+        "rarityScore": 19.588235294117645
+      },
+      {
+        "trait_type": "Expression",
+        "value": "Beastmode Black Happy",
+        "rarityScore": 41.625
+      },
+      {
+        "trait_type": "Special trait",
+        "value": "Khaki 333 Hat",
+        "rarityScore": 83.25
+      },
+      {
+        "trait_type": "Head",
+        "value": "Beastmode Black",
+        "rarityScore": 19.588235294117645
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Black BNBchain Tee",
+        "rarityScore": 22.2
+      },
+      {
+        "trait_type": "Classification",
+        "value": "Legendary",
+        "rarityScore": 6.9375
+      },
+      { "trait_type": "Eye color", "value": "Red Eyes", "rarityScore": 16.65 },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 284.4389705882353,
+    "token_id": "15",
+    "image": "https://gateway.ipfs.io/ipfs/bafybeidoezfl7c4ygp42bq5wsi6bsa7dbr562q3kescr4ajzukz77js4t4/15.jpg",
+    "Rank": 15
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Rare Blue Cloud",
+        "rarityScore": 166.5
+      },
+      { "trait_type": "Fur", "value": "Beastmode Brown", "rarityScore": 111 },
+      {
+        "trait_type": "Expression",
+        "value": "Beastmode Brown Calm",
+        "rarityScore": 111
+      },
+      {
+        "trait_type": "Special trait",
+        "value": "Special Blue Hat",
+        "rarityScore": 66.6
+      },
+      { "trait_type": "Head", "value": "Beastmode Brown", "rarityScore": 111 },
+      {
+        "trait_type": "Clothing",
+        "value": "Grey BNBchain Tee",
+        "rarityScore": 166.5
+      },
+      {
+        "trait_type": "Classification",
+        "value": "Legendary",
+        "rarityScore": 6.9375
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Beastmode Green",
+        "rarityScore": 333
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 1080.5375,
+    "token_id": "16",
+    "image": "https://gateway.ipfs.io/ipfs/bafybeidoezfl7c4ygp42bq5wsi6bsa7dbr562q3kescr4ajzukz77js4t4/16.jpg",
+    "Rank": 16
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "PurpleBlueSunset",
+        "rarityScore": 18.5
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Black Devil Fur",
+        "rarityScore": 30.272727272727273
+      },
+      {
+        "trait_type": "Expression",
+        "value": "Rare Gold Smile",
+        "rarityScore": 25.615384615384613
+      },
+      {
+        "trait_type": "Special trait",
+        "value": "Degen",
+        "rarityScore": 7.568181818181818
+      },
+      {
+        "trait_type": "Head",
+        "value": "Bald",
+        "rarityScore": 2.1483870967741936
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Black BNBchain Tee",
+        "rarityScore": 22.2
+      },
+      {
+        "trait_type": "Classification",
+        "value": "Violent",
+        "rarityScore": 5.842105263157895
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Blue Eyes",
+        "rarityScore": 30.272727272727273
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 150.41951333895307,
+    "token_id": "17",
+    "image": "https://gateway.ipfs.io/ipfs/Qme6EGipNdY9P6sbDxGdLDZjK8kcjmpuoBenKeXsTGiHsH",
+    "Rank": 17
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Tangerine Dream",
+        "rarityScore": 66.6
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Zombified DarkGreyBrown",
+        "rarityScore": 166.5
+      },
+      {
+        "trait_type": "Expression",
+        "value": "Zombified Calm Brown",
+        "rarityScore": 37
+      },
+      {
+        "trait_type": "Special trait",
+        "value": "Wise",
+        "rarityScore": 12.333333333333332
+      },
+      {
+        "trait_type": "Head",
+        "value": "Bald",
+        "rarityScore": 2.1483870967741936
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "None",
+        "rarityScore": 6.403846153846153
+      },
+      {
+        "trait_type": "Classification",
+        "value": "Zombie Stage 2",
+        "rarityScore": 15.85714285714286
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Zombified Red Eyes",
+        "rarityScore": 47.57142857142857
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 362.41413801252503,
+    "token_id": "18",
+    "image": "https://gateway.ipfs.io/ipfs/QmVuCJpFgBWnqjXgp1T5k1tc7Y9Z7u56kU1Z85afqZ3QQM",
+    "Rank": 18
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green Lava Lamp",
+        "rarityScore": 333
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Bloody Pennywise",
+        "rarityScore": 47.57142857142857
+      },
+      {
+        "trait_type": "Expression",
+        "value": "Bloody Pennywise",
+        "rarityScore": 47.57142857142857
+      },
+      {
+        "trait_type": "Special trait",
+        "value": "Wise",
+        "rarityScore": 12.333333333333332
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Pennywise Hair",
+        "rarityScore": 66.6
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Black Suit Red Tie",
+        "rarityScore": 41.625
+      },
+      {
+        "trait_type": "Classification",
+        "value": "Violent",
+        "rarityScore": 5.842105263157895
+      },
+      { "trait_type": "Eye color", "value": "Red Eyes", "rarityScore": 16.65 },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 579.1932957393483,
+    "token_id": "19",
+    "image": "https://gateway.ipfs.io/ipfs/bafybeidoezfl7c4ygp42bq5wsi6bsa7dbr562q3kescr4ajzukz77js4t4/19.jpg",
+    "Rank": 19
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pennywise Purple Glow",
+        "rarityScore": 333
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Bloody Pennywise",
+        "rarityScore": 47.57142857142857
+      },
+      {
+        "trait_type": "Expression",
+        "value": "Bloody Pennywise",
+        "rarityScore": 47.57142857142857
+      },
+      {
+        "trait_type": "Special trait",
+        "value": "Legendary",
+        "rarityScore": 166.5
+      },
+      {
+        "trait_type": "Head",
+        "value": "Neon Purple Pennywise Hair",
+        "rarityScore": 166.5
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Pennywise Clothes",
+        "rarityScore": 83.25
+      },
+      {
+        "trait_type": "Classification",
+        "value": "Violent",
+        "rarityScore": 5.842105263157895
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "3rd Eye",
+        "rarityScore": 8.763157894736842
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 866.9981203007519,
+    "token_id": "20",
+    "image": "https://gateway.ipfs.io/ipfs/bafybeidoezfl7c4ygp42bq5wsi6bsa7dbr562q3kescr4ajzukz77js4t4/20.jpg",
+    "Rank": 20
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Special Blue 1",
+        "rarityScore": 333
+      },
+      { "trait_type": "Fur", "value": "Zombified Brown", "rarityScore": 111 },
+      {
+        "trait_type": "Expression",
+        "value": "Zombified Calm Brown",
+        "rarityScore": 37
+      },
+      { "trait_type": "Special trait", "value": "Lucky", "rarityScore": 13.32 },
+      {
+        "trait_type": "Head",
+        "value": "Bald",
+        "rarityScore": 2.1483870967741936
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "None",
+        "rarityScore": 6.403846153846153
+      },
+      {
+        "trait_type": "Classification",
+        "value": "Legendary",
+        "rarityScore": 6.9375
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Zombfified Pink Eyes",
+        "rarityScore": 333
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 850.8097332506203,
+    "token_id": "21",
+    "image": "https://gateway.ipfs.io/ipfs/QmeBc3fbivnn6116iJ6xLimo9XrE1w8quzBBZZwDKRm351",
+    "Rank": 21
+  },
+  {
+    "Attributes": [
+      { "trait_type": "Background", "value": "Purple", "rarityScore": 83.25 },
+      { "trait_type": "Fur", "value": "Light Grey", "rarityScore": 55.5 },
+      { "trait_type": "Expression", "value": "Red Mouth", "rarityScore": 33.3 },
+      { "trait_type": "Special trait", "value": "Brave", "rarityScore": 18.5 },
+      {
+        "trait_type": "Head",
+        "value": "Bald",
+        "rarityScore": 2.1483870967741936
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "ODgreen Tee",
+        "rarityScore": 11.892857142857142
+      },
+      {
+        "trait_type": "Classification",
+        "value": "Violent",
+        "rarityScore": 5.842105263157895
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Bursted Eyes",
+        "rarityScore": 7.568181818181818
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 226.00153132097105,
+    "token_id": "22",
+    "image": "https://gateway.ipfs.io/ipfs/QmT2pnsj7MU8oY1fRKPoGK5hxbtahHMya7XWQTYwZv3irE",
+    "Rank": 22
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink Gradient",
+        "rarityScore": 333
+      },
+      { "trait_type": "Fur", "value": "Beastmode Brown", "rarityScore": 111 },
+      {
+        "trait_type": "Expression",
+        "value": "Beastmode Brown Calm",
+        "rarityScore": 111
+      },
+      {
+        "trait_type": "Special trait",
+        "value": "Lucky Purple Hat",
+        "rarityScore": 111
+      },
+      { "trait_type": "Head", "value": "Beastmode Brown", "rarityScore": 111 },
+      {
+        "trait_type": "Clothing",
+        "value": "Black Suit Lucky Blue Tie",
+        "rarityScore": 333
+      },
+      {
+        "trait_type": "Classification",
+        "value": "Intelligent",
+        "rarityScore": 8.763157894736842
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "3rd Eye",
+        "rarityScore": 8.763157894736842
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 1135.5263157894738,
+    "token_id": "23",
+    "image": "https://gateway.ipfs.io/ipfs/bafybeidoezfl7c4ygp42bq5wsi6bsa7dbr562q3kescr4ajzukz77js4t4/23.jpg",
+    "Rank": 23
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple Trippy",
+        "rarityScore": 66.6
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Zombified PurpleBlue",
+        "rarityScore": 111
+      },
+      {
+        "trait_type": "Expression",
+        "value": "Zombified Blue Calm",
+        "rarityScore": 333
+      },
+      {
+        "trait_type": "Special trait",
+        "value": "Legendary",
+        "rarityScore": 166.5
+      },
+      {
+        "trait_type": "Head",
+        "value": "Bald",
+        "rarityScore": 2.1483870967741936
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "None",
+        "rarityScore": 6.403846153846153
+      },
+      {
+        "trait_type": "Classification",
+        "value": "Zombie Stage 2",
+        "rarityScore": 15.85714285714286
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Zombified Purple Eyes",
+        "rarityScore": 111
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 820.5093761077633,
+    "token_id": "24",
+    "image": "https://gateway.ipfs.io/ipfs/bafybeidoezfl7c4ygp42bq5wsi6bsa7dbr562q3kescr4ajzukz77js4t4/24.jpg",
+    "Rank": 24
+  }
+]
